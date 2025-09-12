@@ -48,6 +48,7 @@ To run this example, you will need:
 ### Resources
 
 - [Froala MathType Reference](https://froala.com/wysiwyg-editor/examples/wiris/)
+- [Read: The Easy Way to Format Math Online with a Visual HTML Editor](https://froala.com/blog/general/format-math-online-visual-html-editor/)
 
 ---
 
