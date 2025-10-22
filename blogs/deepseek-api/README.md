@@ -1,4 +1,4 @@
-# Image Summary with DeepSeek Example
+# Text Summary with DeepSeek Example
 
 This repository uses Froala and the DeepSeek API to generate a summary from an excerpt of text. 
 
